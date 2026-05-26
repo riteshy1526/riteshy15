@@ -1,0 +1,6 @@
+{
+  "name": "Resume Filter",
+  "description": "An automatic resume scanner and filter app to parsing resume files or pasting resume texts, and selecting top candidates based on skills and experience using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
